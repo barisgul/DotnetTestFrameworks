@@ -1,0 +1,5 @@
+C:\Users\baris\source\repos\DotNetTestFrameworks\DotNetTestFrameworks\bin\Debug\DotNetTestFrameworks.dll
+C:\Users\baris\source\repos\DotNetTestFrameworks\DotNetTestFrameworks\bin\Debug\DotNetTestFrameworks.pdb
+C:\Users\baris\source\repos\DotNetTestFrameworks\DotNetTestFrameworks\obj\Debug\DotNetTestFrameworks.csproj.CoreCompileInputs.cache
+C:\Users\baris\source\repos\DotNetTestFrameworks\DotNetTestFrameworks\obj\Debug\DotNetTestFrameworks.dll
+C:\Users\baris\source\repos\DotNetTestFrameworks\DotNetTestFrameworks\obj\Debug\DotNetTestFrameworks.pdb

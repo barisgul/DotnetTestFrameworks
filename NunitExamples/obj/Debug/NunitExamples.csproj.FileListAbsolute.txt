@@ -1,0 +1,17 @@
+C:\Users\baris\source\repos\DotNetTestFrameworks\NunitExamples\bin\Debug\NunitExamples.dll
+C:\Users\baris\source\repos\DotNetTestFrameworks\NunitExamples\bin\Debug\NunitExamples.pdb
+C:\Users\baris\source\repos\DotNetTestFrameworks\NunitExamples\bin\Debug\DotNetTestFrameworks.dll
+C:\Users\baris\source\repos\DotNetTestFrameworks\NunitExamples\bin\Debug\FluentAssertions.dll
+C:\Users\baris\source\repos\DotNetTestFrameworks\NunitExamples\bin\Debug\nunit.framework.dll
+C:\Users\baris\source\repos\DotNetTestFrameworks\NunitExamples\bin\Debug\System.ValueTuple.dll
+C:\Users\baris\source\repos\DotNetTestFrameworks\NunitExamples\bin\Debug\DotNetTestFrameworks.pdb
+C:\Users\baris\source\repos\DotNetTestFrameworks\NunitExamples\bin\Debug\FluentAssertions.pdb
+C:\Users\baris\source\repos\DotNetTestFrameworks\NunitExamples\bin\Debug\FluentAssertions.xml
+C:\Users\baris\source\repos\DotNetTestFrameworks\NunitExamples\bin\Debug\nunit.framework.pdb
+C:\Users\baris\source\repos\DotNetTestFrameworks\NunitExamples\bin\Debug\nunit.framework.xml
+C:\Users\baris\source\repos\DotNetTestFrameworks\NunitExamples\bin\Debug\System.ValueTuple.xml
+C:\Users\baris\source\repos\DotNetTestFrameworks\NunitExamples\obj\Debug\NunitExamples.csprojAssemblyReference.cache
+C:\Users\baris\source\repos\DotNetTestFrameworks\NunitExamples\obj\Debug\NunitExamples.csproj.CoreCompileInputs.cache
+C:\Users\baris\source\repos\DotNetTestFrameworks\NunitExamples\obj\Debug\NunitExamples.csproj.CopyComplete
+C:\Users\baris\source\repos\DotNetTestFrameworks\NunitExamples\obj\Debug\NunitExamples.dll
+C:\Users\baris\source\repos\DotNetTestFrameworks\NunitExamples\obj\Debug\NunitExamples.pdb
