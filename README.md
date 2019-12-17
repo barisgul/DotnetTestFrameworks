@@ -1,7 +1,7 @@
 # DotnetTestFrameworks
 Nunit and Xunit examples
 
-Simple tests for Nunit and Xunit wit origin assert class and FluentAssertions.
+Simple tests for Nunit and Xunit with origin Assert class and FluentAssertions.
 
 Requirements:
  * Visual Studio 2017 or higher 
